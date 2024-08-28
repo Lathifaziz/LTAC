@@ -8,7 +8,7 @@ function Footer() {
             <div className="container-fluid px-5 d-flex flex-wrap text-light">
                 <div>
                     <p >Alamat Kantor:</p>
-                    <p >Jl. Tawes Raya, Dliwang, Ungaran, <br /> Kec. Ungaran Barat, Kabupaten Semarang, Jawa Tengah 50514</p>
+                    <p >Jl. Tawes Raya No.11 Dliwang, Ungaran, <br /> Kec. Ungaran Barat, Kabupaten Semarang, Jawa Tengah 50514</p>
                     <Map />
                 </div>
                 <div className="mx-auto mt-2">

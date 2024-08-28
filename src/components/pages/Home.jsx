@@ -45,11 +45,11 @@ function Home() {
                             <h6><b>Pengelolaan Faktur Pajak,<br /> ID-Billing, dan Bukti Potong</b></h6>
                         </li>
                         <li className="d-flex flex-column align-items-center text-center" style={{width: "250px"}}>
-                            <img src="/assets/analis.png" alt="" width="50%" />
-                            <h6><b>Pendampingan Pemeriksaan Pajak <br /> dan SP2DK</b></h6>
+                            <img src="/assets/analis.png" alt="" width="45%" />
+                            <h6><b>Pendampingan Pemeriksaan <br /> Pajak dan SP2DK</b></h6>
                         </li>
                         <li className="d-flex flex-column align-items-center text-center" style={{width: "250px"}}>
-                            <img src="/assets/22608528.png" alt="" width="53%" />
+                            <img src="/assets/22608528.png" alt="" width="53%" className="pb-3"/>
                             <h6><b>Pelatihan Pajak dan Akuntansi</b></h6>
                         </li>
                         <li className="d-flex flex-column align-items-center text-center" style={{width: "250px"}}>

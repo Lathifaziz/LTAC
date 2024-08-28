@@ -11,22 +11,23 @@ function Layanan() {
                 <div className="navbara container">
                 <h2 className="text-center"><b>Kami siap membantu anda dengan layanan lengkap kami</b></h2>
                     <ul className="list-unstyled d-flex flex-wrap justify-content-between"> 
-                        <li className="d-flex flex-column align-items-center w-25 text-center">
+                        <li className="d-flex flex-column align-items-center text-center" style={{width: "250px"}}>
                             <img src="/assets/fee.png" width="48%" alt="neraca" className="" />
                            <h6><b>Penyusunan Laporan Keuangan <br /> (Neraca, Laba, Rugi, Arus Kas)</b></h6>
                         </li>
-                        <li className="d-flex flex-column align-items-center w-25 text-center">
+                        <li className="d-flex flex-column align-items-center text-center" style={{width: "250px"}}>
                             <img src="/assets/tax-report.png" width="56%" alt="neraca" className="" />
                             <h6><b>Pelaporan SPT pph pasal <br /> 21, 22, 23, 24, 25, 26, 4 Ayat 2</b></h6>
                         </li>
-                        <li className="d-flex flex-column align-items-center w-25">
+                        <li className="d-flex flex-column align-items-center" style={{width: "250px"}}>
                             <img src="/assets/people.png" width="41%" alt="neraca" className="" />
                             <li>
-                            <h6><b>Penyusunan SPT Masa PPN,</b></h6>
+                            <h6><b>Penyusunan SPT Masa PPN,
+                            <br /> Penyusunan SPT Tahunan Badan
+                            </b></h6>
                             </li>
-                            <li><h6><b>Penyusunan SPT Tahunan Badan</b></h6></li>
                         </li>
-                        <li className="d-flex flex-column align-items-center w-25 text-center">
+                        <li className="d-flex flex-column align-items-center text-center" style={{width: "250px"}}>
                             <img src="/assets/faktur.png" alt="" width="47%"/>
                             <h6><b>Pengelolaan Faktur Pajak,<br /> ID-Billing, dan Bukti Potongan</b></h6>
                         </li>

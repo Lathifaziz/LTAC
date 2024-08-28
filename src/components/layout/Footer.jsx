@@ -22,7 +22,7 @@ function Footer() {
                     </p>
                     </div>
 
-                    <p><i class="fa-solid fa-envelope me-2"></i>konsultanltac@gmail.com</p>
+                    <p><i className="fa-solid fa-envelope me-2"></i>konsultanltac@gmail.com</p>
                     </div>
                     <p>Kunjungi Halaman kami:</p>
                     <ul className="list-unstyled navbar-nav me-auto mb-2 mb-lg-0">

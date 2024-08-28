@@ -45,7 +45,7 @@ function Footer() {
                 </div>  
             </div>
                 <div>
-                <p className="mt-5 text-center text-white">Copyright &copy; Learning Tax and Accounting Center <br /> Since 2012</p>
+                <p className="mt-5 text-center text-white">Copyright &copy; Learning Tax and Accounting Center <br /> Since 2020</p>
                 </div>
                 
         </footer>

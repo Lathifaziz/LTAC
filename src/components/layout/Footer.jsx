@@ -12,10 +12,22 @@ function Footer() {
                     <Map />
                 </div>
                 <div className="mx-auto mt-2">
+                    <div>
                     <p className="me-3">Contact Person: </p>
-                    <p ><i className="fa-solid fa-phone me-2"></i>+62 812 3456 7890</p>
+                    <div className="d-flex">
+                    <i className="fa-solid fa-phone me-2 mt-3"></i>
+                    <p> 
+                    +62 857-2734-5027 <br />
+                    +62 881-6346-047
+                    </p>
+                    </div>
+
+                    <p><i class="fa-solid fa-envelope me-2"></i>konsultanltac@gmail.com</p>
+                    </div>
                     <p>Kunjungi Halaman kami:</p>
                     <ul className="list-unstyled navbar-nav me-auto mb-2 mb-lg-0">
+                        <li>
+                        </li>
                         <li className="nav-item">
                             <a className="nav-link" href="https://www.facebook.com/lathif.4212/" target="blank"><i className="fa-brands fa-square-facebook  me-2 fa-2x"></i>Facebook</a>
                         </li>
@@ -26,8 +38,9 @@ function Footer() {
                             <a className="nav-link" href="https://twitter.com/LearningTax" target="blank"><i className="fa-brands fa-square-twitter me-2 fa-2x"></i>Twitter</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="https://wa.me/6287845190160" target="blank"><i className="fa-brands fa-square-whatsapp me-2 fa-2x"></i>WhatsApp</a>
+                            <a className="nav-link" href="https://wa.me/6285727345027" target="blank"><i className="fa-brands fa-square-whatsapp me-2 fa-2x"></i>WhatsApp</a>
                         </li>
+                       
                     </ul>                
                 </div>  
             </div>

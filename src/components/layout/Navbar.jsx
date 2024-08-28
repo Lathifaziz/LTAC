@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 function Navbar() {
-    const phone = `6287845190160`;
+    const phone = `6285727345027`;
     const message = encodeURIComponent('Halo, saya tertarik dengan layanan Anda.'); // Pesan yang dikirim
 
     // URL WhatsApp dengan nomor telepon dan pesan

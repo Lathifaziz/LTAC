@@ -8,8 +8,9 @@ function Home() {
     const phone = `6287845190160`;
     
     return (
-        <div className="d-flex flex-column min-vh-100 home-body">
+        <div className="d-flex flex-column min-vh-100">
            <Navbar />
+           <div className="home-body">
            <Body>
                 <div className="mt-5 text-light">
                     <h1 className="font-weight-bold">Selamat Datang di LTAC</h1>
@@ -20,6 +21,7 @@ function Home() {
                         <a className="btn btn-success fw-bold" href='https://wa.me/6285727345027' target='blank' rel="noopener noreferrer"><i className="fa-brands fa-whatsapp fa-lg me-2"></i>Hubungi Kami</a>
                 </div>
             </Body>
+            </div>
             <div className="layanan-background pt-5">
             <Section>
             <div className="navbara container d-flex flex-wrap justify-content-center">

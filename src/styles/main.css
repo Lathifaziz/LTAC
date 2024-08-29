@@ -1,6 +1,6 @@
 .home-body {
     background-image: url('/assets/backgrounds/main.jpg'); 
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     font-family: 'Poppins', sans-serif; 
     margin: 0;

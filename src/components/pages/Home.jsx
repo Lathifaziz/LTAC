@@ -16,8 +16,8 @@ function Home() {
                     <h1 className="font-weight-bold">Selamat Datang di LTAC</h1>
                     <p className="mb-5">Mitra profesional Anda dalam solusi perpajakan yang komprehensif.<br /> Di dunia bisnis yang semakin kompleks, kami memahami bahwa manajemen pajak yang tepat adalah kunci untuk memastikan pertumbuhan dan keberlanjutan usaha Anda. 
                     <br />Dengan pengalaman bertahun-tahun dan pengetahuan mendalam tentang regulasi perpajakan, kami berkomitmen untuk memberikan layanan konsultasi yang tepat, mulai dari perencanaan pajak, kepatuhan, hingga penyelesaian sengketa pajak.<br/>
-                        Tim ahli kami bekerja erat dengan Anda untuk mengidentifikasi risiko pajak, sekaligus memastikan bahwa semua kewajiban pajak Anda terpenuhi dengan efektiv dan efisien. <br /> 
-                        Percayakan kebutuhan perpajakan Anda kepada kami, sehingga Anda dapat fokus pada hal yang paling penting—mengembangkan bisnis Anda. <br /> <b>Hubungi kami hari ini untuk memulai langkah pertama menuju pengelolaan pajak yang lebih baik dan bisnis yang lebih sukses.</b></p>
+                        Tim ahli kami bekerja erat dengan Anda untuk mengidentifikasi risiko pajak, sekaligus memastikan bahwa semua kewajiban pajak Anda terpenuhi dengan efektif dan efisien. <br /> 
+                        Percayakan kebutuhan perpajakan Anda kepada kami, sehingga Anda dapat fokus pada hal yang paling penting—mengembangkan bisnis Anda. <br /> <br /> <b>Hubungi kami hari ini untuk memulai langkah pertama menuju pengelolaan pajak yang lebih baik dan bisnis yang lebih sukses.</b></p>
                         <a className="btn btn-success fw-bold" href='https://wa.me/6285727345027' target='blank' rel="noopener noreferrer"><i className="fa-brands fa-whatsapp fa-lg me-2"></i>Hubungi Kami</a>
                 </div>
             </Body>
